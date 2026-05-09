@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="Aman Deep Banner" width="850"/>
+  <img src="https://raw.githubusercontent.com/Aman-28-tech/Aman-28-tech/main/Myphoto.jpeg" alt="Aman Deep Banner" width="850"/>
 </p>
 
 ---
