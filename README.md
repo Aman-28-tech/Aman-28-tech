@@ -73,7 +73,7 @@ Building scalable full-stack applications, backend systems, and AI-powered softw
 🔗 https://portfolio-ruby-iota-40.vercel.app/
 
 <p align="center">
-  <img src="YOUR_PORTFOLIO_SCREENSHOT_LINK" alt="Portfolio Preview" width="900"/>
+  <img src="Screenshot from 2026-05-09 19-42-26.png" alt="Portfolio Preview" width="900"/>
 </p>
 
 ---
