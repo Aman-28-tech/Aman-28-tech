@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Deep;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Backend+%26+Systems+Programming+Learner;3rd+Year+Student+at+NIT+Jalandhar" alt="Typing SVG" />
 </p>
 </h1>
----
-
 <h3 align="center">
 Building scalable full-stack applications, backend systems, and AI-powered software while exploring modern AI/ML and system-level engineering.
 </h3>
