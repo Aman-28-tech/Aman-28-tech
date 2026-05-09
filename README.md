@@ -137,26 +137,6 @@ Git • Docker • Postman • VS Code
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-28-tech&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-28-tech&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-28-tech&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aman-28-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-28-tech" />
-</p>
-
----
-
 <h3 align="center">
 Building practical software while continuously learning backend systems, AI engineering, and scalable application development.
 </h3>
