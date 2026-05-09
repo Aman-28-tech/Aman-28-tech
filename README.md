@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Deep;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Backend+%26+Systems+Programming+Learner;3rd+Year+Student+at+NIT+Jalandhar" alt="Typing SVG" />
 </p>
 </h1>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aman-28-tech/Aman-28-tech/main/Myphoto.jpeg" alt="Aman Deep Banner" width="850"/>
-</p>
-
 ---
 
 <h3 align="center">
