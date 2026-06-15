@@ -16,11 +16,22 @@ Building scalable full-stack applications, backend systems, and AI-powered softw
 - 🌱 Currently learning RAG systems, Generative AI, scalable backend architectures, and production-ready software design
 - ⚡ Strong foundation in DSA, OOP, DBMS, REST APIs, and system-level concepts
 - 🧠 Interested in AI-powered applications, backend systems, and practical software engineering
-- 🔥 Solved 270+ LeetCode problems with 1500+ contest rating
+- 🔥 Solved 300+ LeetCode problems with 1500+ contest rating
 
 ---
 
 # 📌 Featured Projects
+
+## 🤖 Agentic GraphRAG System: Multi-Strategy AI Pipeline
+
+🔗 GitHub Repo: https://github.com/Aman-28-tech/Agentic-GraphRAG
+
+- Architected a hybrid RAG pipeline combining Qdrant vector search, NetworkX graphs, and BM25, fused via RRF
+- Engineered a self-correcting LLM loop with claim-level verification, achieving a 92% verified answer rate
+- Indexed 913 document chunks and dynamically extracted a Knowledge Graph of 325+ nodes
+- Deployed a Dockerized full-stack platform (FastAPI, Streamlit) maintaining optimal 2-5s query latency
+
+---
 
 ## 📊 LogSight — AI-Powered Observability Platform
 
@@ -55,17 +66,6 @@ Building scalable full-stack applications, backend systems, and AI-powered softw
 
 ---
 
-## 📄 Resumind — AI Resume Analyzer
-
-🔗 Live Demo: https://ai-resume-analyzer-two-lilac.vercel.app
-
-- Built an AI-powered resume analyzer using React and external AI APIs
-- Implemented secure file handling with Puter.js
-- Generated ATS-focused insights using resume-job keyword matching
-- Added responsive routing using React Router
-
----
-
 # 🌐 Portfolio
 
 ## 🚀 Visit My Portfolio Website
@@ -84,13 +84,13 @@ Building scalable full-stack applications, backend systems, and AI-powered softw
 Python • JavaScript • TypeScript • C++ • Java
 
 ### Web Development
-React.js • Next.js • Node.js • Express.js • MongoDB • REST APIs • Socket.io
+React.js • Next.js • Node.js • Express.js • FastAPI • MongoDB • REST APIs • Socket.io
 
 ### AI / ML
-LightGBM • SHAP • Scikit-learn • Feature Engineering • LLM Integration
+LangChain • Qdrant • LightGBM • SHAP • Scikit-learn • LLM Integration
 
 ### Systems
-Linux Socket Programming • HTTP Protocol • Multithreading
+Linux Socket Programming • HTTP Protocol • Multithreading • Docker
 
 ### Tools
 Git • Docker • Postman • VS Code
@@ -99,7 +99,7 @@ Git • Docker • Postman • VS Code
 
 # 🌱 Currently Exploring
 
-- Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG) & Agentic AI
 - Generative AI Applications
 - AI/ML Engineering Workflows
 - Scalable Backend Architectures
@@ -109,10 +109,10 @@ Git • Docker • Postman • VS Code
 
 # 🏆 Coding Profiles
 
-- LeetCode: 270+ Problems Solved
+- LeetCode: 300+ Problems Solved
 - Contest Rating: 1500+
-- 100+ Active Days
-- Max Streak: 40+ Days
+- 130+ Active Days
+- Max Streak: 80+ Days
 
 🔗 LeetCode Profile: https://leetcode.com/u/montykl007/
 
@@ -122,7 +122,7 @@ Git • Docker • Postman • VS Code
 
 - 💼 LinkedIn: https://www.linkedin.com/in/aman-deep-151aba335/
 - 🌐 Portfolio: https://portfolio-ruby-iota-40.vercel.app/
-- 👨‍💻 GitHub: https://github.com/Aman-28-tech
+- 👨💻 GitHub: https://github.com/Aman-28-tech
 - 🧠 LeetCode: https://leetcode.com/u/montykl007/
 - 📧 Email: amandeepkl758@gmail.com
 
