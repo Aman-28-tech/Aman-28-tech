@@ -44,15 +44,17 @@ Building scalable full-stack applications, backend systems, and AI-powered softw
 
 ---
 
-## ⚙️ C++ HTTP Web Server for Linux
+## ⚙️ AmanVM + Virtual CPU (16-bit Architecture)
 
-🔗 GitHub Repo: https://github.com/Aman-28-tech/CPP-Http-web-server-Single-thread-for-Linux.git
+🔗 GitHub Repo: https://github.com/Aman-28-tech/Virtual-CPU-and-VM-AmanVM.git
 
-- Built a custom HTTP web server using C++ and Linux socket programming
-- Implemented complete request-response handling using low-level socket APIs
-- Designed a multithreaded architecture using `std::thread`
-- Explored networking fundamentals and concurrent systems programming
-
+• Developed a highly optimized 16-bit CPU emulator featuring a fully functional 65KB RAM, hardware registers, and
+dynamic stack memory.
+• Implemented a robust custom instruction set architecture (ISA) including core operations: MOV, ADD, SUB, MUL, DIV,
+JMP, CMP, PRINT, and HLT.
+• Built the complete runtime execution environment designed to natively decode, track, and execute programs line-by-line via a
+custom VM interpreter loop.
+• Tech Stack: C++, explicit manual memory management, instruction decoding algorithms, and high-performance runtime loops.
 ---
 
 ## 🧠 Coagulopathy Cracker — Bleeding Risk Prediction System
@@ -111,8 +113,8 @@ Git • Docker • Postman • VS Code
 
 - LeetCode: 300+ Problems Solved
 - Contest Rating: 1500+
-- 130+ Active Days
-- Max Streak: 80+ Days
+- 160+ Active Days
+- Max Streak: 90+ Days
 
 🔗 LeetCode Profile: https://leetcode.com/u/montykl007/
 
